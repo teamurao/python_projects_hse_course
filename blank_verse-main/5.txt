@@ -1,0 +1,14 @@
+mood
+hand
+phone
+table
+cap
+lamp
+note
+pen
+rose
+lion
+time
+day
+train
+bag
