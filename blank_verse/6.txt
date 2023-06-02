@@ -1,0 +1,14 @@
+bags
+pens
+cats
+dogs
+books
+hands
+lamps
+stamps
+things
+boys
+girls
+eyes
+doors
+farms
